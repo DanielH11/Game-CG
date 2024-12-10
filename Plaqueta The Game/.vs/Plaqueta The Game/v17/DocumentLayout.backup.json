@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\mostrarobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\mostrarobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|c:\\users\\danie\\unesp\\trabalhos\\6\u00BA semestre\\computa\u00E7\u00E3o gr\u00E1fica\\trabalho jogo\\plaqueta the game\\assets\\creator kit - fps\\scripts\\vitoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\vitoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\derrota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\derrota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\intromenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\intromenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\intro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\morte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\morte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\genoc\u00EDdio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\genoc\u00EDdio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|c:\\users\\danie\\unesp\\trabalhos\\6\u00BA semestre\\computa\u00E7\u00E3o gr\u00E1fica\\trabalho jogo\\plaqueta the game\\assets\\creator kit - fps\\scripts\\fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\assets\\creator kit - fps\\scripts\\passa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778038A5-773B-85EB-BE60-CBF6D023220A}|Assembly-CSharp.csproj|solutionrelative:assets\\creator kit - fps\\scripts\\passa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fim.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Fim.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Fim.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Fim.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Fim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:42:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\StaticData.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\StaticData.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\StaticData.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:31:13.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Passa.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Passa.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Passa.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Passa.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Passa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:04:41.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\UI\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\UI\\PauseMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:20:09.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Derrota.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Derrota.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Derrota.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Derrota.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Derrota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:33:56.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroMenu.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\IntroMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\IntroMenu.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\IntroMenu.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\IntroMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:58:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Intro.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Intro.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Intro.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Intro.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Intro.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:06:01.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Morte.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Morte.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Morte.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Morte.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Morte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:27:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genoc\u00EDdio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Genoc\u00EDdio.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Genoc\u00EDdio.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Genoc\u00EDdio.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Genoc\u00EDdio.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:57:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vitoria.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Vitoria.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\Vitoria.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\Vitoria.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\Vitoria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:45:02.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MostrarObjetos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\MostrarObjetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Creator Kit - FPS\\Scripts\\MostrarObjetos.cs",
+              "ToolTip": "C:\\Users\\danie\\Unesp\\Trabalhos\\6\u00BA Semestre\\Computa\u00E7\u00E3o gr\u00E1fica\\Trabalho jogo\\Plaqueta The Game\\Assets\\Creator Kit - FPS\\Scripts\\MostrarObjetos.cs",
+              "RelativeToolTip": "Assets\\Creator Kit - FPS\\Scripts\\MostrarObjetos.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:17:07.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
